@@ -1,22 +1,27 @@
-# Personal Finance Tracker
+#  Personal Finance Tracker
 
-Overview
+##  Overview
 An app that will gives you a clear picture of where you are today-and a practical path toward where you want to go.
 
-Features
+## Features
 
-Tech Stack
+Dashboard - Financial snapshot, cash flow, net worth, and alerts  
+Transactions - Income and expense organized by category  
+Budget - Planned versus actual monthly spending  
+Goals - Target amount, deadline, and required contribution  
+Accounts - Cash, savings, investments, credit cards, and loans  
 
-Architecture
+## Tech Stack
 
-Installation
+## Architecture 
 
-Screenshots
+## Installation
 
-API
+## Screenshots
 
-Database
+## API
 
-Testing
+## Database
 
-Future Improvements
+## Testing
+
