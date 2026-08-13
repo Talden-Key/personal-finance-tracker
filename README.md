@@ -12,6 +12,11 @@ Goals - Target amount, deadline, and required contribution
 Accounts - Cash, savings, investments, credit cards, and loans  
 
 ## Tech Stack
+Frontend: React, TypeScript, Vite, Tailwind CSS, Tanstack Query
+Backend: Node.js, TypeScript, Express
+Database: PostgresSQL
+ORM: Prisma
+Testing: Viteest, Supertest, Playwright
 
 ## Architecture 
 
