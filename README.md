@@ -22,6 +22,7 @@ Testing: Viteest, Supertest, Playwright
 I'm using a modular three-tier web architecture with a sperate frontend, backend API, and PostgresSQL database.
 Frontend: responsible for UI and user interaction. React should not know how financial calculations are implemented or how PostgresSQL is structured. It should call the API and display the results.
 Backend: should have several internal layers rather than putting everything directly into Expresss routes
+Database: store relational financial records 
 ## Installation
 
 ## Screenshots
